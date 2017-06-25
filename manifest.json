@@ -1,0 +1,22 @@
+{
+  "name": "Globe Reader",
+  "version": "0.0.1",
+  "manifest_version": 2,
+  "description": "Read the things, score the points",
+  "homepage_url": "http://www.johnbfox.com",
+  "background": {
+    "scripts": [
+      "background.js"
+    ],
+    "persistent": true
+  },
+  "browser_action": {
+    "default_icon": "icon.png",
+    "default_title": "Globe"
+  },
+  "permissions": [
+    "https://*/*",
+    "http://*/*",
+    "tabs"
+  ]
+}
