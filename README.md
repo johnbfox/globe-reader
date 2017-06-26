@@ -1,6 +1,10 @@
 # Globe Reader
 Chrome extension to enhance your boston globe reading experience.
 
+After:
+![After](https://ibb.co/bJV3q5)
+
+
 ## Instructions
 1. Clone or download the repo.  If you downloaded a .zip file, unzip the contents into the directory of your choosing.
 2. Open Google Chrome and type "chrome://extensions/" into the URL bar.
