@@ -1,7 +1,12 @@
 # Globe Reader
 Chrome extension to enhance your boston globe reading experience.
 
-After:
+### Before
+
+![After](https://image.ibb.co/jsuDq5/Screen_Shot_2017_06_25_at_5_54_54_PM.png)
+
+### After
+
 ![After](https://image.ibb.co/dEEUV5/Screen_Shot_2017_06_25_at_5_55_00_PM.png)
 
 
