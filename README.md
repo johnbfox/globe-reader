@@ -2,7 +2,7 @@
 Chrome extension to enhance your boston globe reading experience.
 
 After:
-![After](https://ibb.co/bJV3q5)
+![After](https://image.ibb.co/dEEUV5/Screen_Shot_2017_06_25_at_5_55_00_PM.png)
 
 
 ## Instructions
