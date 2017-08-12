@@ -1,10 +1,6 @@
-
 (function() {
-
-  document.querySelector('html').style['overflow'] = 'auto';
-  document.querySelector('.mfp-wrap').style['display'] = 'none';
-  document.querySelector('.mfp-bg').style['display'] = 'none';
-  document.querySelector('#contain').style['overflow'] = 'auto';
-  document.querySelector('#contain').style['height'] = 'auto';
-
+  document.querySelector('body').style['overflow'] = 'auto';
+  document.querySelector('body').style['position'] = 'relative';
+  document.querySelector('body').style['width'] = 'auto';
+  document.querySelector('.meter-paywall').style['display'] = 'none';
 })();
